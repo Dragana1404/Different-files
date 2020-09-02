@@ -6,6 +6,7 @@ print("\n")
 print("File 1: ")
 print(content1)
 print("\n")
+#change this comment
 
 File2 = open('C:/Users/Nenad/Desktop/Data/fajl2.csv', "r") #Loading CSV File 2
 content2 = File2.read() #Creating second array from File 2
